@@ -216,12 +216,16 @@ main .main-text-container p {
     }
 
     .rate-comments{
-        margin-top: 50px;
+        margin-top: 70px;
         display: block;
     }
 
     .comment-card{
         width: 100%;
         height: 35%;
+    }
+
+    #comment-3 {
+        margin-top: 15px;
     }
 }
